@@ -1,10 +1,9 @@
 # SQBeyondPublic
-Bug reports for SQ Beyond
+Main github page for StarQuest Beyond
 
 ## NOTE: Please read this before posting an issue
-To help us resolve bugs much faster, consider adding the following to your issue:
-- Bug reproduction steps. A list of steps we can take to reliably reproduce the bug.
-- Screenshots of the bug occuring.
-- Dates and times of when the bug occured.
+Please make sure that the issue you are reporting hasn't already been documented by someone. If it has, and you have more you would like to add on to it, please do so in the issue's comment section.
+
+If your bug report doesn't follow the proper format, it may be deleted.
 
 The issue reporting is done under the "Issues" tab at the top of the screen, next to "Code".
